@@ -4,11 +4,8 @@
 
 I'm a passionate student at **Efrei Paris** 🎓, specializing in AI Development 🚀. Currently, I'm actively seeking an exciting internship opportunity in the field of Artificial Intelligence.
 
-I'm also a fullstack web developer open to freelance opportunities 🌐.
-
 ✨ Here's what I bring to the table:
 
-- 🌐 Extensive experience in **Web Fullstack Development**, including strong knowledge of front-end and back-end technologies 
 - 🤖 Strong skills in **AI development**, including machine learning algorithms, data analysis, and deep learning frameworks such as TensorFlow and PyTorch.
 - 💼 Proven track record of **successful freelance projects**, delivering high-quality solutions to clients.
 - 🎯 Passionate about creating innovative and efficient AI-powered applications that solve **real-world problems**.
